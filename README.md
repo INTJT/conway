@@ -1,5 +1,7 @@
 # Conway's Game of Life editor
 
+![Preview](preview/preview.png)
+
 ---
 
 ## Installation
